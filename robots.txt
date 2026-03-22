@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mazeverse.github.io/termmax-referral-code/sitemap.xml
+Sitemap: https://termmax-referral-code.vercel.app/sitemap.xml
