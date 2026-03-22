@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mazeverse.github.io/termmax-referral-code/sitemap.xml
